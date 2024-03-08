@@ -1,2 +1,2 @@
-FROM quay.io/redhat-user-workloads/ralphjbean-tenant/rhel/ubi@sha256:f51661e6547501c56a829ded624de033809858ff8b6167effa6970bcec4bcd0b
+FROM quay.io/redhat-user-workloads/ralphjbean-tenant/rhel/ubi@sha256:19e98b8075b81351d3dbc7275753f8d9b511861406826fa8af02e340ef8bf4e1
 LABEL name="test"
